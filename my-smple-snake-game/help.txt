@@ -1,0 +1,8 @@
+snake game 
+section 1 group work
+
+use A=to change the direction to the left
+    S=to change the direction to down
+    W=to change the direction to up
+    D=to change the direction to the rigth
+
